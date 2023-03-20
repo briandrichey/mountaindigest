@@ -41,6 +41,7 @@ import Icon from "@mui/material/Icon";
 import ChaletIcon from '@mui/icons-material/Chalet';
 import SkiIcon from '@mui/icons-material/DownhillSkiing';
 import ForestIcon from '@mui/icons-material/Forest';
+import RestaurantIcon from '@mui/icons-material/Restaurant';
 
 
 
@@ -245,7 +246,7 @@ const routes = [
   },
   {
     name: "Recipes",
-    icon: <ForestIcon fontSize="medium" >forest_icon</ForestIcon>,
+    icon: <RestaurantIcon fontSize="medium" >Restaurant_icon</RestaurantIcon>,
     collapse: [
       {
         name: "getting started",
@@ -271,7 +272,7 @@ const routes = [
   },
   {
     name: "Apparell",
-    icon: <Icon>article</Icon>,
+    icon: <ForestIcon fontSize="medium" >forest_icon</ForestIcon>,
     collapse: [
       {
         name: "getting started",
