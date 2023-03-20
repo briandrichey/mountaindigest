@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/briandrichey/mountaindigest/static/css/main.073c9b0a.css",
+    "main.js": "/briandrichey/mountaindigest/static/js/main.3b7f3c9d.js",
+    "static/js/787.a173d049.chunk.js": "/briandrichey/mountaindigest/static/js/787.a173d049.chunk.js",
+    "static/media/logo.svg": "/briandrichey/mountaindigest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/briandrichey/mountaindigest/index.html",
+    "main.073c9b0a.css.map": "/briandrichey/mountaindigest/static/css/main.073c9b0a.css.map",
+    "main.3b7f3c9d.js.map": "/briandrichey/mountaindigest/static/js/main.3b7f3c9d.js.map",
+    "787.a173d049.chunk.js.map": "/briandrichey/mountaindigest/static/js/787.a173d049.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b7f3c9d.js"
+  ]
+}
