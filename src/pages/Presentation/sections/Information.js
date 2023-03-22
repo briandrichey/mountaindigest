@@ -30,6 +30,13 @@ import DefaultInfoCard from "examples/Cards/InfoCards/DefaultInfoCard";
 import bgFront from "assets/images/rotating-card-bg-front.jpeg";
 import bgBack from "assets/images/rotating-card-bg-back.jpeg";
 
+//icons
+//import  icon  from "@mui/icons-material";
+import ForestIcon from "@mui/icons-material/Forest";
+import RestaurantIcon from "@mui/icons-material/Restaurant";
+import DownhillSkiingIcon from "@mui/icons-material/";
+import YouTubeIcon from "@mui/icons-material/YouTube";
+
 function Information() {
   return (
     <MKBox component="section" py={6} my={6}>
@@ -42,12 +49,12 @@ function Information() {
                 icon="touch_app"
                 title={
                   <>
-                    Feel the
+                    The Mountains
                     <br />
-                    Material Kit
+                    Are Calling
                   </>
                 }
-                description="All the MUI components that you need in a development have been re-design with the new look."
+                description="-John Muir"
               />
               <RotatingCardBack
                 image={bgBack}
@@ -66,16 +73,15 @@ function Information() {
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
                   icon="content_copy"
-                  title="Full Documentation"
-                  description="Built by developers for developers. Check the foundation and you will find
-                    everything inside our documentation."
+                  title="Restaurant Guide"
+                  description="Find the best restaurants for every budget after a long day on the mountain."
                 />
               </Grid>
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
                   icon="flip_to_front"
-                  title="MUI Ready"
-                  description="The world's most popular react components library for building user interfaces."
+                  title="Apparell Trends"
+                  description="Be prepared for whatever the weather throws at you, while looking your best."
                 />
               </Grid>
             </Grid>
@@ -83,15 +89,15 @@ function Information() {
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
                   icon="price_change"
-                  title="Save Time & Money"
-                  description="Creating your design from scratch with dedicated designers can be very expensive. Start with our Design System."
+                  title="Ski Report"
+                  description="Find the softest snow on the mountain for all skill levels."
                 />
               </Grid>
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
                   icon="devices"
-                  title="Fully Responsive"
-                  description="Regardless of the screen size, the website content will naturally fit the given resolution."
+                  title="Recipes"
+                  description="Stuck at home? Try some of our favorite wellness recipes to warm up and stay nourished."
                 />
               </Grid>
             </Grid>
