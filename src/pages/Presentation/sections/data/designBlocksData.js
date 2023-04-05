@@ -18,60 +18,60 @@ const imagesPrefix =
 
 export default [
   {
-    title: "Design Blocks",
-    description: "A selection of 45 page sections that fit perfectly in any combination",
+    title: "Destinations",
+    description: "A selection of 45 Destinations for your next mountain get away.",
     items: [
       {
         image: `${imagesPrefix}/headers.jpg`,
-        name: "Page Headers",
+        name: "California",
         count: 10,
         route: "/sections/page-sections/page-headers",
       },
       {
         image: `${imagesPrefix}/features.jpg`,
-        name: "Features",
+        name: "Colorado",
         count: 14,
         route: "/sections/page-sections/features",
       },
       {
         image: `${imagesPrefix}/pricing.jpg`,
-        name: "Pricing",
+        name: "Utah",
         count: 8,
         pro: true,
       },
       {
         image: `${imagesPrefix}/faq.jpg`,
-        name: "FAQ",
+        name: "Oregon",
         count: 1,
         pro: true,
       },
       {
         image: `${imagesPrefix}/blogs.jpg`,
-        name: "Blog Posts",
+        name: "New Mexico",
         count: 11,
         pro: true,
       },
       {
         image: `${imagesPrefix}/testimonials.jpg`,
-        name: "Testimonials",
+        name: "Chamonix",
         count: 11,
         pro: true,
       },
       {
         image: `${imagesPrefix}/teams.jpg`,
-        name: "Teams",
+        name: "Verbier",
         count: 6,
         pro: true,
       },
       {
         image: `${imagesPrefix}/stats.jpg`,
-        name: "Stats",
+        name: "Dolomites",
         count: 3,
         pro: true,
       },
       {
         image: `${imagesPrefix}/call-to-action.jpg`,
-        name: "Call to Actions",
+        name: "Japan",
         count: 8,
         pro: true,
       },
