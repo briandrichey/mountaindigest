@@ -1,7 +1,7 @@
 {
   "name": "mountaindigest",
   "version": "2.0.0",
-  "private": true,
+  "private": false,
   "author": "Creative Tim & Brian Richey",
   "license": "See license in https://www.creative-tim.com/license",
   "description": "React version of Material Kit 2 by Creative Tim",
