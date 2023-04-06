@@ -7,11 +7,11 @@
   "description": "React version of Material Kit 2 by Creative Tim",
   "homepage": "https://briandrichey.github.io/mountaindigest",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
+    "url": "https://briandrichey.github.io/mountaindigest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/ct-material-kit-react.git"
+    "url": "https://briandrichey.github.io/mountaindigest"
   },
   "engines": {
     "node": "14 || 15 || 16",
